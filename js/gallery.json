@@ -1,0 +1,52 @@
+[
+    {
+        "src": "img/gallery11.jpg",
+        "header": "Residence",
+        "paragraph": "Poland 15-05-2017"
+    },
+    {
+        "src": "img/gallery12.jpg",
+        "header": "Viewing hall",
+        "paragraph": "Poland 18-06-2017"
+    },
+    {
+        "src": "img/gallery13.jpg",
+        "header": "Swimming pool",
+        "paragraph": "Poland 31-08-2017"
+    },
+    {
+        "src": "img/gallery14.jpg",
+        "header": "Pre-war hospital",
+        "paragraph": "Poland 01-09-2017"
+    },
+    {
+        "src": "img/gallery15.jpg",
+        "header": "Production hall",
+        "paragraph": "Poland 22-09-2017"
+    },
+    {
+        "src": "img/gallery16.jpg",
+        "header": "Canteen",
+        "paragraph": "Poland 24-09-2017"
+    },
+    {
+        "src": "img/gallery17.jpg",
+        "header": "Factory",
+        "paragraph": "Poland 29-09-2017"
+    },
+    {
+        "src": "img/gallery18.jpg",
+        "header": "Railway wagon",
+        "paragraph": "Poland 11-10-2017"
+    },
+    {
+        "src": "img/gallery19.jpg",
+        "header": "Assembly hall",
+        "paragraph": "Poland 12-10-2017"
+    },
+    {
+        "src": "img/gallery20.jpg",
+        "header": "Arena",
+        "paragraph": "Poland 22-10-2017"
+    }
+]
